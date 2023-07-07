@@ -1,0 +1,1 @@
+ As we can see BeautifulSoup() method has two parameters. First one is the html content which we got from our desired URL, and second parameter is parsing the HTML content, then we have used the get_text() method to get the content in text format.
